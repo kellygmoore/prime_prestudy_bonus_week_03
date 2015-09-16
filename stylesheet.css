@@ -1,0 +1,10 @@
+body {
+	color: red;
+	font-size: 28px;
+	font-family: Helvitica;
+	font-style: underline;
+}
+
+h1 {
+	border: 1px dashed blue;
+}
